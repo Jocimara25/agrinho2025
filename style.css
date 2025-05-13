@@ -2,10 +2,10 @@
 
 
 :root {
---primary-color: #026773;
---secondary-color: #3CA6A6;
+--primary-color: #83cfec;
+--secondary-color: #c21d62;
 --text-color: #024959;
---background-color: #F2E3D5;
+--background-color: #80f1e2;
 --button-hover: #012E40;
 --font-body: "Chocolate Classical Sans", serif;
 --font-titulo: "Rakkas", serif;
@@ -15,7 +15,7 @@
 * {
 margin: 0;
 padding: 0;
-box-sizing: border-box;
+box-sizing:border-box;
 font-family: var(--font-body);
 }
 
